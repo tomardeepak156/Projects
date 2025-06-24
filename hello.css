@@ -1,0 +1,18 @@
+i{
+   font-size: 40px;
+   color: blue;
+   position: relative;
+   left: -30px;
+}
+
+i:hover{
+    left: 0px;
+    transition: 0s;
+    color: white;
+    background: red;
+    width: 50px;
+    padding: 5px;
+    border-radius: 0 50px 50px 0;
+
+
+}
